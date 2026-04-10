@@ -28,20 +28,16 @@ author:
   pronouns         : ""  
   bio              : "PhD student at Northwestern Polytechnical University. Interested in Multi-modal fusion"
   location         : "Xi'an, China"
-  employer         : " "
-  uri              : # URL
   email            : "yu.wei@mail.nwpu.edu.cn" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : " "
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0005-1742-631X"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : " "
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +53,6 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
